@@ -1,0 +1,7 @@
+# Segment Tree Sample Queries
+# Format: <start_index> <end_index> OR <start_time> <end_time>
+1 6
+0 4
+3 9
+09:30:02 09:30:07
+09:30:00 09:30:14
